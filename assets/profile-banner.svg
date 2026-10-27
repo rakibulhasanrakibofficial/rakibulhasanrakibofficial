@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rakibul Hasan Rakib — Developer Profile</title>
+  <desc id="desc">A modern navy, blue and cyan developer banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#101d3a"/>
+      <stop offset="100%" stop-color="#072f49"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="24%" r="65%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#93c5fd" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <path d="M760 0 L1200 0 L1200 320 L980 320 Z" fill="#0891b2" opacity=".08"/>
+  <circle cx="1030" cy="150" r="112" fill="none" stroke="#38bdf8" stroke-opacity=".12" stroke-width="1.5"/>
+  <circle cx="1030" cy="150" r="82" fill="none" stroke="#60a5fa" stroke-opacity=".16" stroke-width="1.5"/>
+  <circle cx="1030" cy="150" r="52" fill="none" stroke="#22d3ee" stroke-opacity=".20" stroke-width="1.5"/>
+  <g fill="#67e8f9" opacity=".9">
+    <circle cx="953" cy="91" r="3"/><circle cx="1091" cy="76" r="2.5"/>
+    <circle cx="1130" cy="172" r="3"/><circle cx="982" cy="241" r="2.5"/>
+    <circle cx="1065" cy="225" r="3"/><circle cx="1162" cy="112" r="2"/>
+  </g>
+  <g stroke="url(#accent)" stroke-width="2" fill="none" opacity=".85">
+    <path d="M928 114 L966 143 L1002 117 L1041 150 L1080 121 L1122 153"/>
+    <path d="M966 143 L954 190 L1002 208 L1041 150 L1074 188 L1122 153"/>
+  </g>
+  <rect x="64" y="52" width="8" height="42" rx="4" fill="url(#accent)"/>
+  <text x="92" y="78" fill="#93c5fd" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3">HELLO, WORLD</text>
+  <text x="64" y="145" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="51" font-weight="750" letter-spacing="-1.2">Rakibul Hasan Rakib</text>
+  <text x="67" y="188" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">CSE Student  ·  Full-Stack Developer  ·  AI/ML Enthusiast</text>
+  <text x="67" y="229" fill="#b7c8e3" font-family="Segoe UI, Arial, sans-serif" font-size="17">Learning by building practical software and solving real problems.</text>
+  <g transform="translate(67 260)">
+    <rect width="126" height="30" rx="15" fill="#1d4ed8" fill-opacity=".23" stroke="#60a5fa" stroke-opacity=".6"/>
+    <text x="63" y="20" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#dbeafe" font-size="13" font-weight="600">LEARN</text>
+    <rect x="138" width="126" height="30" rx="15" fill="#0891b2" fill-opacity=".17" stroke="#22d3ee" stroke-opacity=".6"/>
+    <text x="201" y="20" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#cffafe" font-size="13" font-weight="600">BUILD</text>
+    <rect x="276" width="146" height="30" rx="15" fill="#1e40af" fill-opacity=".18" stroke="#818cf8" stroke-opacity=".6"/>
+    <text x="349" y="20" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#e0e7ff" font-size="13" font-weight="600">CONTRIBUTE</text>
+  </g>
+  <path d="M64 309 H1136" stroke="url(#accent)" stroke-opacity=".65"/>
+</svg>
