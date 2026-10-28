@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">FEATURED PROJECTS</title>
+  <desc id="desc">A few things I have been learning and building.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070d1b"/><stop offset=".55" stop-color="#0b1730"/><stop offset="1" stop-color="#091a2a"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/><stop offset=".55" stop-color="#e0f2fe"/><stop offset="1" stop-color="#a78bfa"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#38bdf8" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="1196" height="108" rx="17" fill="url(#bg)" stroke="#38bdf8" stroke-opacity=".62" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1196" height="108" rx="17" fill="url(#grid)"/>
+  <path d="M6 94 C170 65 280 115 445 92 S730 64 890 92 S1080 110 1194 84" fill="none" stroke="url(#shine)" stroke-opacity=".48" stroke-width="2">
+    <animate attributeName="d" values="M6 94 C170 65 280 115 445 92 S730 64 890 92 S1080 110 1194 84;M6 86 C170 111 280 69 445 89 S730 112 890 83 S1080 70 1194 91;M6 94 C170 65 280 115 445 92 S730 64 890 92 S1080 110 1194 84" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <g transform="translate(38 23)" filter="url(#glow)">
+    <rect width="61" height="61" rx="13" fill="#07152a" stroke="url(#shine)" stroke-width="2"/>
+    <text x="30.5" y="41" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="800" fill="url(#shine)">✦</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="39" font-weight="850" letter-spacing=".4">
+    <text x="121" y="66" fill="#020617" stroke="#020617" stroke-width="8" stroke-linejoin="round">FEATURED PROJECTS</text>
+    <text x="121" y="61" fill="#172554" stroke="#a78bfa" stroke-opacity=".9" stroke-width="2" stroke-linejoin="round">FEATURED PROJECTS</text>
+    <text x="121" y="57" fill="url(#shine)" stroke="#eff6ff" stroke-opacity=".55" stroke-width=".75" stroke-linejoin="round">FEATURED PROJECTS</text>
+  </g>
+  <text x="124" y="83" font-family="Segoe UI, Arial, sans-serif" fill="#b9c7e5" font-size="14">A few things I have been learning and building.</text>
+  <g transform="translate(1020 26)">
+    <rect width="140" height="27" rx="13.5" fill="#08162a" stroke="#38bdf8" stroke-opacity=".7"/>
+    <circle cx="14" cy="13.5" r="4" fill="#38bdf8"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="26" y="18" font-family="Segoe UI, Arial, sans-serif" fill="#dbeafe" font-size="10.5" font-weight="700" letter-spacing=".3">DESIGN • BUILD</text>
+  </g>
+</svg>

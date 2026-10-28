@@ -1,48 +1,47 @@
-<!-- Profile README · Rakibul Hasan Rakib | Responsive single-column edition -->
+<!-- Rakibul Hasan Rakib | Neon developer portfolio | Mobile-first layout -->
 
 <div align="center">
   <img src="./assets/profile-banner.svg" width="100%" alt="Rakibul Hasan Rakib — CSE student, full-stack development and AI/ML" />
 
   <p>
-    <a href="https://github.com/rakibulhasanrakibofficial">
-      <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rakibhasan2569@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+    <a href="mailto:rakibhasan2569@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/rakibulhasanrakibofficial?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
   </p>
 </div>
 
 ---
 
-## 👋 About Me
+<img src="./assets/about-heading.svg" width="100%" alt="Animated 3D About Me section heading" />
 
-I'm a Computer Science and Engineering student at **International Islamic University Chittagong (IIUC)**. I enjoy building practical software, learning through hands-on projects, and solving problems through code.
+I'm a Computer Science and Engineering student at **International Islamic University Chittagong (IIUC)**. I enjoy building practical software, learning through hands-on projects, and solving real problems with code.
 
-- 💻 **Focus:** Full-stack development, backend APIs, and useful software
+- 💻 **Focus:** Full-stack development, backend APIs, and useful applications
 - 🧠 **Interests:** AI/ML, software engineering, and problem-solving
 - 🌱 **Approach:** Learn by building, testing, and improving projects
-- 🤝 **Open to:** Meaningful collaboration, open-source learning, and constructive feedback
+- 🤝 **Community:** Interested in open-source learning and meaningful collaboration
 
-## 🌐 Find Me
+<img src="./assets/findme-heading.svg" width="100%" alt="Animated 3D Find Me section heading" />
 
-- 📍 Chattogram, Bangladesh
-- 📧 **Email:** [rakibhasan2569@gmail.com](mailto:rakibhasan2569@gmail.com)
-- 💼 **LinkedIn:** [rakibul-hasan-rakib](https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/)
-- 🐙 **GitHub:** [@rakibulhasanrakibofficial](https://github.com/rakibulhasanrakibofficial)
+<p align="center">
+  <a href="mailto:rakibhasan2569@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rakibhasan2569%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Rakibul Hasan Rakib" /></a>
+  <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/"><img src="https://img.shields.io/badge/LINKEDIN-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GITHUB-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+</p>
+
+- 📍 **Location:** Chattogram, Bangladesh
+- 🎓 **Studying:** Computer Science and Engineering at IIUC
 
 ---
 
-<img src="./assets/stats-heading.svg" width="100%" alt="Animated 3D-style GitHub Snapshot heading" />
+<img src="./assets/stats-heading.svg" width="100%" alt="Animated 3D GitHub Snapshot heading" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&hide_border=true&rank_icon=github&bg_color=080e1c&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0" alt="Live GitHub statistics" width="100%" />
 </div>
 
-<img src="./assets/languages-heading.svg" width="100%" alt="Animated 3D-style Most Used Languages heading" />
+<img src="./assets/languages-heading.svg" width="100%" alt="Animated 3D Most Used Languages heading" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&hide_border=true&bg_color=080e1c&title_color=22d3ee&text_color=e2e8f0" alt="Most used programming languages" width="100%" />
@@ -50,68 +49,45 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 
 ---
 
+<img src="./assets/tech-stack-heading.svg" width="100%" alt="Animated 3D Tech Stack heading" />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,nodejs,express,mongodb,spring,git,github,vscode&perline=7&theme=dark" alt="Technology icons: C++, Java, JavaScript, Python, HTML, CSS, Node.js, Express, MongoDB, Spring Boot, Git, GitHub and VS Code" />
+</div>
+
+---
+
+<img src="./assets/projects-heading.svg" width="100%" alt="Animated 3D Featured Projects heading" />
+
+<a href="https://github.com/rakibulhasanrakibofficial/campus-sathi-ai"><img src="./assets/project-campus-sathi.svg" width="100%" alt="CampusSathi AI — campus-focused AI assistant project. Click to view repository." /></a>
+
+<a href="https://github.com/rakibulhasanrakibofficial/CodeAlpha_SimpleEcommerce"><img src="./assets/project-ecommerce.svg" width="100%" alt="Simple E-commerce Store — full-stack product browsing and shopping cart project. Click to view repository." /></a>
+
+<a href="https://github.com/rakibulhasanrakibofficial/CodeAlpha_SocialMediaPlatform"><img src="./assets/project-social.svg" width="100%" alt="Social Media Platform — backend-focused social platform project. Click to view repository." /></a>
+
+<a href="https://github.com/rakibulhasanrakibofficial/Blood-Donor-Management-System"><img src="./assets/project-blood-donor.svg" width="100%" alt="Blood Donor Management System. Click to view repository." /></a>
+
+<a href="https://github.com/rakibulhasanrakibofficial/University-Complaint-Routing-System"><img src="./assets/project-complaints.svg" width="100%" alt="University Complaint Routing System. Click to view repository." /></a>
+
 <div align="center">
 
-## 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,nodejs,express,mongodb,spring,git,github,vscode&perline=7&theme=dark" alt="Technology icons: C++, Java, JavaScript, Python, HTML, CSS, Node.js, Express, MongoDB, Spring Boot, Git, GitHub and VS Code" />
+[**EXPLORE ALL REPOSITORIES →**](https://github.com/rakibulhasanrakibofficial?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<img src="./assets/goals-heading.svg" width="100%" alt="Animated 3D Building Toward section heading" />
 
-### 🧭 CampusSathi AI
-
-A campus-focused AI assistant project exploring practical support for students.
-
-[**Explore repository →**](https://github.com/rakibulhasanrakibofficial/campus-sathi-ai)
-
-### 🛍️ Simple E-commerce Store
-
-A full-stack store project with product browsing and shopping-cart functionality.
-
-[**Explore repository →**](https://github.com/rakibulhasanrakibofficial/CodeAlpha_SimpleEcommerce)
-
-### 💬 Social Media Platform
-
-A backend-focused project exploring user accounts and social-platform features.
-
-[**Explore repository →**](https://github.com/rakibulhasanrakibofficial/CodeAlpha_SocialMediaPlatform)
-
-### 🩸 Blood Donor Management System
-
-A project focused on organizing donor information for blood-donation management.
-
-[**Explore repository →**](https://github.com/rakibulhasanrakibofficial/Blood-Donor-Management-System)
-
-### 🏫 University Complaint Routing System
-
-A university-oriented project focused on routing and managing complaints.
-
-[**Explore repository →**](https://github.com/rakibulhasanrakibofficial/University-Complaint-Routing-System)
-
-[**View all repositories →**](https://github.com/rakibulhasanrakibofficial?tab=repositories)
-
----
-
-## 🎯 What I'm Building Toward
-
-- Stronger problem-solving and data-structure fundamentals
-- Reliable, maintainable full-stack applications
-- Practical AI/ML projects and open-source contributions
-- Research skills and continuous learning
-
-## 🤝 Let's Connect
-
-Have an idea, feedback, or a project to collaborate on? Feel free to reach out.
-
-- 📧 [rakibhasan2569@gmail.com](mailto:rakibhasan2569@gmail.com)
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/)
-- 🐙 [Follow on GitHub](https://github.com/rakibulhasanrakibofficial)
+- 🎯 Strengthen problem-solving and data-structure fundamentals
+- 🧩 Build reliable, maintainable full-stack applications
+- 🤖 Explore AI/ML through practical projects
+- 🌍 Learn from open source and contribute where I can
+- 📚 Develop research skills and keep learning consistently
 
 <div align="center">
-  <p><strong>Stay curious. Build with purpose. Keep getting better.</strong></p>
+  <br />
+  <strong>STAY CURIOUS · BUILD WITH PURPOSE · KEEP GETTING BETTER</strong>
+  <br /><br />
   <img src="./assets/profile-footer.svg" width="100%" alt="Animated neon blue and violet wave footer" />
 </div>
