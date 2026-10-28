@@ -1,24 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="108" viewBox="0 0 1200 108" role="img" aria-labelledby="title">
-  <title id="title">Animated blue and cyan wave footer</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Animated neon blue and violet wave footer</title>
   <defs>
-    <linearGradient id="waveA" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1d4ed8"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
-    </linearGradient>
-    <linearGradient id="waveB" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#172554"/>
-      <stop offset="55%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#0891b2"/>
-    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1d4ed8"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c4a6e"/><stop offset="1" stop-color="#4f46e5"/></linearGradient>
   </defs>
-  <rect width="1200" height="108" rx="12" fill="#0b1220"/>
-  <path d="M0 40 C170 4 240 94 410 54 S690 10 860 54 S1070 95 1200 32 L1200 108 L0 108Z" fill="url(#waveB)" opacity=".8">
-    <animate attributeName="d" values="M0 40 C170 4 240 94 410 54 S690 10 860 54 S1070 95 1200 32 L1200 108 L0 108Z;M0 55 C170 95 240 10 410 55 S690 95 860 45 S1070 8 1200 48 L1200 108 L0 108Z;M0 40 C170 4 240 94 410 54 S690 10 860 54 S1070 95 1200 32 L1200 108 L0 108Z" dur="12s" repeatCount="indefinite"/>
+  <rect width="1200" height="120" rx="14" fill="#080e1c"/>
+  <path d="M0 47 C170 7 245 98 420 55 S710 14 876 58 S1074 100 1200 38 L1200 120 L0 120Z" fill="url(#wave2)" opacity=".95">
+    <animate attributeName="d" values="M0 47 C170 7 245 98 420 55 S710 14 876 58 S1074 100 1200 38 L1200 120 L0 120Z;M0 63 C170 103 245 14 420 59 S710 101 876 49 S1074 10 1200 56 L1200 120 L0 120Z;M0 47 C170 7 245 98 420 55 S710 14 876 58 S1074 100 1200 38 L1200 120 L0 120Z" dur="12s" repeatCount="indefinite"/>
   </path>
-  <path d="M0 69 C150 95 260 32 420 68 S690 105 850 61 S1070 26 1200 70 L1200 108 L0 108Z" fill="url(#waveA)" opacity=".65">
-    <animate attributeName="d" values="M0 69 C150 95 260 32 420 68 S690 105 850 61 S1070 26 1200 70 L1200 108 L0 108Z;M0 58 C150 26 260 93 420 58 S690 25 850 70 S1070 101 1200 57 L1200 108 L0 108Z;M0 69 C150 95 260 32 420 68 S690 105 850 61 S1070 26 1200 70 L1200 108 L0 108Z" dur="9s" repeatCount="indefinite"/>
+  <path d="M0 75 C160 104 270 38 440 77 S720 112 884 71 S1080 31 1200 74 L1200 120 L0 120Z" fill="url(#wave1)" opacity=".62">
+    <animate attributeName="d" values="M0 75 C160 104 270 38 440 77 S720 112 884 71 S1080 31 1200 74 L1200 120 L0 120Z;M0 64 C160 29 270 102 440 65 S720 30 884 78 S1080 109 1200 61 L1200 120 L0 120Z;M0 75 C160 104 270 38 440 77 S720 112 884 71 S1080 31 1200 74 L1200 120 L0 120Z" dur="9s" repeatCount="indefinite"/>
   </path>
-  <path d="M0 79 C160 55 290 105 450 80 S720 47 880 80 S1080 104 1200 77" fill="none" stroke="#a5f3fc" stroke-opacity=".55" stroke-width="1.5">
-    <animate attributeName="d" values="M0 79 C160 55 290 105 450 80 S720 47 880 80 S1080 104 1200 77;M0 72 C160 102 290 53 450 75 S720 102 880 72 S1080 50 1200 83;M0 79 C160 55 290 105 450 80 S720 47 880 80 S1080 104 1200 77" dur="10s" repeatCount="indefinite"/>
+  <path d="M0 90 C170 64 282 111 460 88 S720 62 880 91 S1070 108 1200 82" fill="none" stroke="#a5f3fc" stroke-opacity=".7" stroke-width="1.5">
+    <animate attributeName="d" values="M0 90 C170 64 282 111 460 88 S720 62 880 91 S1070 108 1200 82;M0 82 C170 109 282 66 460 84 S720 108 880 83 S1070 62 1200 91;M0 90 C170 64 282 111 460 88 S720 62 880 91 S1070 108 1200 82" dur="11s" repeatCount="indefinite"/>
   </path>
 </svg>

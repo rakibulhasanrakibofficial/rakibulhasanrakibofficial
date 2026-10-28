@@ -1,92 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Rakibul Hasan Rakib — Developer Profile</title>
-  <desc id="desc">An animated navy, blue and cyan banner with a coding terminal and subtle floating light effects.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Rakibul Hasan Rakib — Developer Portfolio</title>
+  <desc id="desc">A neon blue, cyan and violet animated developer banner with raised three-dimensional typography and a coding terminal.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070d19"/>
-      <stop offset="52%" stop-color="#111d39"/>
-      <stop offset="100%" stop-color="#06283b"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050914"/><stop offset=".52" stop-color="#0b1530"/><stop offset="1" stop-color="#061f32"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#60a5fa"/>
-      <stop offset="52%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#67e8f9"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite"/>
+    <linearGradient id="front" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".45" stop-color="#dbeafe"/><stop offset=".72" stop-color="#38bdf8"/><stop offset="1" stop-color="#c4b5fd"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="9s" repeatCount="indefinite"/>
     </linearGradient>
-    <radialGradient id="aura">
-      <stop offset="0%" stop-color="#2563eb" stop-opacity=".40"/>
-      <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#3b82f6"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".78" cy=".35" r=".68">
+      <stop offset="0" stop-color="#4338ca" stop-opacity=".42"/><stop offset=".55" stop-color="#0891b2" stop-opacity=".14"/><stop offset="1" stop-color="#020617" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".07" stroke-width="1"/>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#60a5fa" stroke-opacity=".09" stroke-width="1"/>
     </pattern>
-    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glowText" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="4" flood-color="#020617" flood-opacity=".85"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="340" rx="22" fill="url(#background)"/>
-  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
-  <ellipse cx="1000" cy="80" rx="350" ry="220" fill="url(#aura)">
-    <animate attributeName="rx" values="310;390;310" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values=".65;1;.65" dur="8s" repeatCount="indefinite"/>
-  </ellipse>
-  <path d="M760 0H1200V340H950Z" fill="#0891b2" opacity=".06"/>
-  <path d="M-60 293 C160 245 260 360 470 302 S760 265 920 305 S1130 330 1260 250" fill="none" stroke="#2563eb" stroke-opacity=".22" stroke-width="2">
-    <animate attributeName="d" values="M-60 293 C160 245 260 360 470 302 S760 265 920 305 S1130 330 1260 250;M-60 305 C160 350 260 245 470 305 S760 330 920 280 S1130 250 1260 286;M-60 293 C160 245 260 360 470 302 S760 265 920 305 S1130 330 1260 250" dur="11s" repeatCount="indefinite"/>
+  <rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#glow)"/>
+  <rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+  <path d="M745 0H1200V420H950Z" fill="#0891b2" opacity=".06"/>
+  <path d="M-20 333 C150 286 242 370 414 331 S700 287 848 333 S1070 374 1220 294" fill="none" stroke="#2563eb" stroke-opacity=".5" stroke-width="2">
+    <animate attributeName="d" values="M-20 333 C150 286 242 370 414 331 S700 287 848 333 S1070 374 1220 294;M-20 352 C150 389 242 299 414 345 S700 369 848 318 S1070 290 1220 330;M-20 333 C150 286 242 370 414 331 S700 287 848 333 S1070 374 1220 294" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path d="M-20 359 C160 330 256 396 420 355 S700 316 865 358 S1080 392 1220 330" fill="none" stroke="url(#neon)" stroke-opacity=".55" stroke-width="2">
+    <animate attributeName="d" values="M-20 359 C160 330 256 396 420 355 S700 316 865 358 S1080 392 1220 330;M-20 370 C160 399 256 332 420 369 S700 392 865 347 S1080 329 1220 354;M-20 359 C160 330 256 396 420 355 S700 316 865 358 S1080 392 1220 330" dur="7s" repeatCount="indefinite"/>
   </path>
 
-  <g opacity=".78">
-    <circle cx="885" cy="70" r="3" fill="#67e8f9" filter="url(#softGlow)">
-      <animate attributeName="cy" values="70;91;70" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1120" cy="110" r="2.5" fill="#93c5fd">
-      <animate attributeName="cy" values="110;92;110" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1072" cy="270" r="3" fill="#22d3ee">
-      <animate attributeName="opacity" values=".25;1;.25" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="830" cy="220" r="2" fill="#60a5fa">
-      <animate attributeName="cx" values="830;850;830" dur="7s" repeatCount="indefinite"/>
-    </circle>
+  <g opacity=".85">
+    <circle cx="775" cy="64" r="2.5" fill="#67e8f9"><animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="835" cy="114" r="3" fill="#a78bfa"><animate attributeName="cy" values="114;92;114" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1118" cy="58" r="2" fill="#22d3ee"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1146" cy="268" r="3" fill="#60a5fa"><animate attributeName="cy" values="268;245;268" dur="6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <rect x="58" y="45" width="7" height="40" rx="3.5" fill="url(#accent)"/>
-  <text x="82" y="70" fill="#a5d8ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">HELLO, WORLD</text>
-  <text x="58" y="141" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="49" font-weight="750" letter-spacing="-1.2">Rakibul Hasan Rakib</text>
-  <rect x="60" y="160" width="42" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="59" y="195" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">CSE Student  ·  Full-Stack Development  ·  AI/ML</text>
-  <text x="59" y="230" fill="#b7c8e3" font-family="Segoe UI, Arial, sans-serif" font-size="16.5">I learn by building useful software and solving real problems.</text>
+  <rect x="58" y="50" width="7" height="38" rx="3.5" fill="url(#neon)"/>
+  <text x="82" y="76" fill="#93c5fd" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">HEY, I'M</text>
 
-  <g transform="translate(60 260)">
-    <rect width="119" height="31" rx="15.5" fill="#1d4ed8" fill-opacity=".22" stroke="#60a5fa" stroke-opacity=".75"/>
-    <text x="59.5" y="20.5" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#dbeafe" font-size="12.5" font-weight="700" letter-spacing="1">LEARN</text>
-    <rect x="130" width="119" height="31" rx="15.5" fill="#0891b2" fill-opacity=".16" stroke="#22d3ee" stroke-opacity=".75"/>
-    <text x="189.5" y="20.5" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#cffafe" font-size="12.5" font-weight="700" letter-spacing="1">BUILD</text>
-    <rect x="260" width="144" height="31" rx="15.5" fill="#4f46e5" fill-opacity=".18" stroke="#818cf8" stroke-opacity=".75"/>
-    <text x="332" y="20.5" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#e0e7ff" font-size="12.5" font-weight="700" letter-spacing=".5">CONTRIBUTE</text>
+  <!-- Layered text creates a raised, 3D-style title. -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="51" font-weight="800" letter-spacing="-1.4" filter="url(#softShadow)">
+    <text x="58" y="151" fill="#07102c" stroke="#07102c" stroke-width="6" stroke-linejoin="round">Rakibul Hasan Rakib</text>
+    <text x="58" y="146" fill="#172554" stroke="#1d4ed8" stroke-width="2" stroke-linejoin="round">Rakibul Hasan Rakib</text>
+    <text x="58" y="139" fill="url(#front)" stroke="#eff6ff" stroke-opacity=".55" stroke-width=".8" stroke-linejoin="round">Rakibul Hasan Rakib</text>
+  </g>
+  <text x="60" y="185" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">CSE Student  ·  Full-Stack Development  ·  AI/ML</text>
+  <text x="60" y="220" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="17">Passionate about building useful software, exploring AI/ML</text>
+  <text x="60" y="245" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="17">and solving real-world problems through code.</text>
+
+  <g transform="translate(60 269)" filter="url(#softShadow)">
+    <rect width="112" height="36" rx="18" fill="#07152a" stroke="#22d3ee" stroke-width="1.5"/>
+    <text x="56" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#e0f2fe" font-size="13" font-weight="700">✦ LEARN</text>
+    <rect x="123" width="112" height="36" rx="18" fill="#0b1530" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="179" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#dbeafe" font-size="13" font-weight="700">⌘ BUILD</text>
+    <rect x="246" width="112" height="36" rx="18" fill="#11102f" stroke="#a78bfa" stroke-width="1.5"/>
+    <text x="302" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#ede9fe" font-size="13" font-weight="700">↗ GROW</text>
+    <rect x="369" width="145" height="36" rx="18" fill="#061f2c" stroke="#22d3ee" stroke-width="1.5"/>
+    <text x="441.5" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#cffafe" font-size="13" font-weight="700">◎ COLLABORATE</text>
   </g>
 
-  <g transform="translate(875 84)">
-    <rect x="0" y="0" width="262" height="178" rx="14" fill="#060b14" fill-opacity=".82" stroke="#60a5fa" stroke-opacity=".55"/>
-    <path d="M0 39H262" stroke="#334155" stroke-width="1"/>
-    <circle cx="19" cy="20" r="4" fill="#fb7185"/>
-    <circle cx="33" cy="20" r="4" fill="#fbbf24"/>
-    <circle cx="47" cy="20" r="4" fill="#34d399"/>
-    <text x="18" y="64" fill="#93c5fd" font-family="monospace" font-size="13">$ whoami</text>
-    <text x="18" y="88" fill="#e2e8f0" font-family="monospace" font-size="13">rakibulhasanrakib</text>
-    <text x="18" y="116" fill="#67e8f9" font-family="monospace" font-size="13">$ build --ideas</text>
-    <text x="18" y="140" fill="#cbd5e1" font-family="monospace" font-size="12">learn(); build(); repeat();</text>
-    <rect x="18" y="151" width="7" height="14" rx="1" fill="#67e8f9">
-      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-    </rect>
+  <!-- Neon coding terminal illustration -->
+  <g transform="translate(832 79)" filter="url(#softShadow)">
+    <rect width="300" height="205" rx="16" fill="#050b17" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect x="1" y="1" width="298" height="36" rx="15" fill="#131c35"/>
+    <path d="M1 36H299" stroke="#334155"/>
+    <circle cx="20" cy="19" r="4" fill="#fb7185"/><circle cx="35" cy="19" r="4" fill="#fbbf24"/><circle cx="50" cy="19" r="4" fill="#34d399"/>
+    <text x="72" y="23" fill="#94a3b8" font-family="monospace" font-size="11">rakib.dev — terminal</text>
+    <g font-family="monospace" font-size="13">
+      <text x="19" y="62" fill="#67e8f9">$ whoami</text>
+      <text x="19" y="84" fill="#dbeafe">rakibulhasanrakib</text>
+      <text x="19" y="111" fill="#a78bfa">$ build --ideas</text>
+      <text x="19" y="133" fill="#94a3b8">// turning ideas into code</text>
+      <text x="19" y="160" fill="#34d399">learn(); build(); repeat();</text>
+      <rect x="19" y="174" width="8" height="15" rx="1" fill="#22d3ee"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+    </g>
   </g>
-
-  <path d="M58 317H1142" stroke="url(#accent)" stroke-opacity=".7" stroke-width="1.5"/>
-  <path d="M58 317H270" stroke="#22d3ee" stroke-opacity=".9" stroke-width="3">
-    <animate attributeName="d" values="M58 317H270;M58 317H430;M58 317H270" dur="7s" repeatCount="indefinite"/>
-  </path>
+  <path d="M58 390H1142" stroke="url(#neon)" stroke-width="2" stroke-opacity=".8"/>
+  <path d="M58 390H230" stroke="#67e8f9" stroke-width="4"><animate attributeName="d" values="M58 390H230;M58 390H410;M58 390H230" dur="6s" repeatCount="indefinite"/></path>
 </svg>
