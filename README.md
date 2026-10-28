@@ -10,6 +10,9 @@
     <a href="https://github.com/rakibulhasanrakibofficial?tab=repositories">
       <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
     </a>
+    <a href="mailto:rakibhasan2569@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rakibul" />
+    </a>
   </p>
 </div>
 
@@ -72,6 +75,14 @@ A university-oriented project focused on routing and managing complaints.
 - Stronger problem-solving and data-structure fundamentals
 - Reliable, maintainable full-stack applications
 - Practical AI/ML projects and open-source contributions
+
+## 🤝 Let's Connect
+
+Have a project idea or a collaboration in mind? Feel free to reach out.
+
+- 📧 **Email:** [rakibhasan2569@gmail.com](mailto:rakibhasan2569@gmail.com)
+- 💼 **LinkedIn:** [rakibul-hasan-rakib](https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/)
+- 🐙 **GitHub:** [@rakibulhasanrakibofficial](https://github.com/rakibulhasanrakibofficial)
 
 <div align="center">
   <p><em>“Stay curious. Build with purpose. Keep getting better.”</em></p>
