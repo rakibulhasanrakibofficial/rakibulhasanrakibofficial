@@ -22,16 +22,7 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 - 🌱 **Approach:** Learn by building, testing, and improving projects
 - 🤝 **Community:** Interested in open-source learning and meaningful collaboration
 
-<img src="./assets/findme-heading.svg" width="100%" alt="Animated 3D Find Me section heading" />
-
-<p align="center">
-  <a href="mailto:rakibhasan2569@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rakibhasan2569%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Rakibul Hasan Rakib" /></a>
-  <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/"><img src="https://img.shields.io/badge/LINKEDIN-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GITHUB-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-</p>
-
-- 📍 **Location:** Chattogram, Bangladesh
-- 🎓 **Studying:** Computer Science and Engineering at IIUC
+<p align="center"><strong>📍 Chattogram, Bangladesh &nbsp;·&nbsp; 🎓 CSE student at IIUC</strong></p>
 
 ---
 
