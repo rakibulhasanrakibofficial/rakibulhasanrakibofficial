@@ -52,34 +52,24 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 
 ---
 
-## 📊 GitHub Snapshot
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-
-**⚡ GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&hide_border=true&rank_icon=github&bg_color=080e1c&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0" alt="GitHub stats" width="100%" />
-
-      </div>
+      <img src="./assets/stats-heading.svg" width="100%" alt="3D animated GitHub snapshot heading" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=080e1c&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0" alt="Live GitHub statistics" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-
-**💻 Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&hide_border=true&bg_color=080e1c&title_color=22d3ee&text_color=e2e8f0" alt="Most used languages" width="100%" />
-
-      </div>
+      <img src="./assets/languages-heading.svg" width="100%" alt="3D animated most used languages heading" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&hide_border=true&hide_title=true&bg_color=080e1c&title_color=22d3ee&text_color=e2e8f0" alt="Most used programming languages" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack
+<img src="./assets/tech-stack-heading.svg" width="100%" alt="3D animated tech stack heading" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
