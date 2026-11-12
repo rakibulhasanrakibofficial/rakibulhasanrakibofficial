@@ -67,7 +67,7 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 <div align="center">
   <img src="./assets/ninja-village.svg?v=2" width="100%" alt="Decorative ninja village skyline" />
   <br/><br/>
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution graph" />
+  <a href="https://github.com/rakibulhasanrakibofficial?tab=overview"><strong>View my real GitHub contribution activity →</strong></a>
 </div>
 
 ## 🎯 Next Missions
