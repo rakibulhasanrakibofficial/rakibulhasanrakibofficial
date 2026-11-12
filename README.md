@@ -28,22 +28,19 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 
 <img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-about-orbit.svg" width="100%" alt="What I build — development missions and rotating interest cards" />
 
-## 🌀 JUTSU ARSENAL + HOBBIES
+## 🌀 JUTSU ARSENAL
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-tech-orbit.svg" width="100%" alt="Animated technology orbit" />
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-hobbies.svg" width="100%" alt="Animated interests carousel" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-tech-orbit.svg?v=6" width="100%" alt="Anime character and premium technology arsenal panel" />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,nodejs,express,mongodb,git,github,vscode,qt&perline=7&theme=dark" alt="Technology stack" />
 </div>
+
+## 🎴 OFF-DUTY SIDE QUESTS
+
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-hobbies.svg?v=6" width="100%" alt="Anime character and rotating hobbies carousel" />
 
 ## 🪪 SHINOBI ID + MISSION DASHBOARD
 
@@ -54,7 +51,7 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&theme=tokyonight" width="100%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub statistics" />
 </td>
 <td width="50%" valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&theme=tokyonight" width="100%" alt="Most used languages" />
