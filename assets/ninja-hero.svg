@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
-<title id="t">Rakibul Hasan Rakib — Shinobi Developer</title><desc id="d">A cinematic anime-inspired shinobi developer banner with an original orange-clad ninja character, laptop, glowing village lights and developer profile details.</desc>
+<title id="t">Rakibul Hasan Rakib — Animated Shinobi Developer</title><desc id="d">An animated dark neon orange shinobi developer banner with a custom illustrated character, orbiting lights and cycling developer roles.</desc>
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080b14"/><stop offset=".52" stop-color="#171522"/><stop offset="1" stop-color="#32140f"/></linearGradient>
  <linearGradient id="orange" x2="1" y2="1"><stop stop-color="#ffd17c"/><stop offset=".45" stop-color="#ff7a24"/><stop offset="1" stop-color="#c72d1e"/></linearGradient>
@@ -10,8 +10,7 @@
  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="430" rx="22" fill="url(#bg)"/><rect width="1200" height="430" rx="22" fill="url(#grid)"/>
-<circle cx="930" cy="210" r="250" fill="url(#aura)"/><circle cx="930" cy="210" r="175" fill="none" stroke="#ff7838" stroke-opacity=".5" stroke-dasharray="5 12"/><circle cx="930" cy="210" r="145" fill="none" stroke="#ffb36b" stroke-opacity=".25"/>
-<g fill="#ff9b55"><circle cx="790" cy="62" r="3"/><circle cx="1085" cy="72" r="2"/><circle cx="1140" cy="295" r="3"/><circle cx="730" cy="340" r="2"/><circle cx="1010" cy="34" r="2"/></g>
+<circle cx="930" cy="210" r="250" fill="url(#aura)"/><circle cx="930" cy="210" r="175" fill="none" stroke="#ff7838" stroke-opacity=".5" stroke-dasharray="5 12"><animateTransform attributeName="transform" type="rotate" from="0 930 210" to="360 930 210" dur="50s" repeatCount="indefinite"/></circle><circle cx="930" cy="210" r="145" fill="none" stroke="#ffb36b" stroke-opacity=".25"/>
 <g font-family="Segoe UI,Arial,sans-serif">
  <text x="58" y="58" fill="#ffb36b" font-size="14" font-weight="800" letter-spacing="4">THE SHINOBI DEVELOPER FILE</text>
  <text x="58" y="132" fill="#fff2e9" font-size="48" font-weight="900">RAKIBUL HASAN RAKIB</text>
@@ -23,25 +22,23 @@
  <text x="60" y="368" fill="#998d8a" font-size="12" letter-spacing="2">IIUC • CHATTOGRAM, BANGLADESH</text>
  <text x="60" y="393" fill="#ff9b55" font-size="11" letter-spacing="2">忍道 — THE WAY OF THE SHINOBI</text>
 </g>
-<!-- original anime shinobi character -->
+<!-- original illustrated shinobi character -->
 <g transform="translate(805 22)">
  <path d="M105 126 Q25 100 52 42 Q88 -8 166 22 Q237 45 220 134 L251 247 197 229 183 172 80 190 38 251 21 229Z" fill="url(#hair)" stroke="#4a5365" stroke-width="3"/>
  <path d="M80 95 Q82 51 136 48 Q190 48 194 105 L183 172 Q158 205 112 180 Q83 157 80 95Z" fill="url(#skin)" stroke="#b87563" stroke-width="2"/>
  <path d="M72 88 Q83 28 151 31 Q203 35 211 93 Q179 68 154 72 Q116 77 83 111Z" fill="url(#hair)"/>
- <path d="M80 83 Q49 111 54 190 L22 238 56 243 95 178Z" fill="url(#hair)"/><path d="M187 82 Q226 115 215 190 L250 239 218 248 176 179Z" fill="url(#hair)"/>
- <path d="M80 99 Q104 86 125 100" fill="none" stroke="#25212a" stroke-width="6" stroke-linecap="round"/><path d="M147 100 Q170 86 190 99" fill="none" stroke="#25212a" stroke-width="6" stroke-linecap="round"/>
- <ellipse cx="108" cy="111" rx="12" ry="8" fill="#fff"/><ellipse cx="165" cy="111" rx="12" ry="8" fill="#fff"/><ellipse cx="110" cy="112" rx="5" ry="7" fill="#5b7c83"/><ellipse cx="164" cy="112" rx="5" ry="7" fill="#5b7c83"/><circle cx="111" cy="112" r="2.5" fill="#111"/><circle cx="165" cy="112" r="2.5" fill="#111"/>
- <path d="M137 117 L131 140 141 143" fill="none" stroke="#b87563" stroke-width="2" stroke-linecap="round"/><path d="M120 157 Q139 168 157 155" fill="none" stroke="#8d4b4a" stroke-width="3" stroke-linecap="round"/>
- <path d="M66 71 Q137 49 207 72 L202 96 Q135 77 70 99Z" fill="#202b3c" stroke="#9ba5b5" stroke-width="3"/><path d="M118 71 l24 -2 9 13 -14 12 -17 -10Z" fill="#aeb8c5"/><path d="M131 76 l9 3 -7 7 -6 -6Z" fill="#35445b"/>
+ <path d="M80 99 Q104 86 125 100 M147 100 Q170 86 190 99" fill="none" stroke="#25212a" stroke-width="6" stroke-linecap="round"/>
+ <ellipse cx="108" cy="111" rx="12" ry="8" fill="#fff"/><ellipse cx="165" cy="111" rx="12" ry="8" fill="#fff"/><ellipse cx="110" cy="112" rx="5" ry="7" fill="#5b7c83"/><ellipse cx="164" cy="112" rx="5" ry="7" fill="#5b7c83"/>
+ <path d="M137 117 L131 140 141 143 M120 157 Q139 168 157 155" fill="none" stroke="#9b5b52" stroke-width="3" stroke-linecap="round"/>
+ <path d="M66 71 Q137 49 207 72 L202 96 Q135 77 70 99Z" fill="#202b3c" stroke="#9ba5b5" stroke-width="3"/><path d="M118 71 l24 -2 9 13 -14 12 -17 -10Z" fill="#aeb8c5"/>
  <path d="M88 184 Q138 162 190 187 L222 296 53 296Z" fill="#1a2433" stroke="#3b4558" stroke-width="3"/>
  <path d="M87 187 Q136 171 190 190 L205 286 67 286Z" fill="url(#orange)" stroke="#ffb15e" stroke-width="3"/>
  <path d="M106 192 L137 228 170 192 183 285 91 285Z" fill="#202a3a"/><path d="M137 227 L137 285" stroke="#ffb15e" stroke-width="3"/>
- <path d="M77 205 L37 270 60 290 102 233" fill="url(#orange)" stroke="#ffb15e" stroke-width="3"/><path d="M196 206 L234 265 214 288 177 235" fill="url(#orange)" stroke="#ffb15e" stroke-width="3"/>
- <path d="M62 292 L206 292 228 325 44 325Z" fill="#101722" stroke="#687184" stroke-width="2"/>
- <path d="M83 305 L189 305" stroke="#ff8a3a" stroke-width="4"/><circle cx="137" cy="307" r="5" fill="#ffb36b"/>
- <path d="M45 326 L231 326 252 366 18 366Z" fill="#101722" stroke="#ff8a3a" stroke-width="2"/>
- <path d="M65 340 H210 M65 350 H185" stroke="#4b5b6c" stroke-width="3"/>
- <path d="M245 46 Q270 18 285 42" fill="none" stroke="#ff9b55" stroke-width="3" filter="url(#glow)"/>
+ <path d="M77 205 L37 270 60 290 102 233 M196 206 L234 265 214 288 177 235" fill="none" stroke="#ff9b4b" stroke-width="24"/>
+ <path d="M62 292 L206 292 228 325 44 325Z" fill="#101722" stroke="#687184" stroke-width="2"/><path d="M83 305 L189 305" stroke="#ff8a3a" stroke-width="4"/>
+ <path d="M45 326 L231 326 252 366 18 366Z" fill="#101722" stroke="#ff8a3a" stroke-width="2"/><path d="M65 340 H210 M65 350 H185" stroke="#4b5b6c" stroke-width="3"/>
+ <path d="M245 46 Q270 18 285 42" fill="none" stroke="#ff9b55" stroke-width="3" filter="url(#glow)"><animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/></path>
 </g>
+<g fill="#ff9b55"><circle cx="790" cy="62" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="1085" cy="72" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.7s" repeatCount="indefinite"/></circle><circle cx="1140" cy="295" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle></g>
 <path d="M0 420 Q300 392 600 420 T1200 410" fill="none" stroke="#ff7838" stroke-opacity=".6" stroke-width="2"/>
 </svg>
