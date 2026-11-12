@@ -1,7 +1,7 @@
 <!-- SHINOBI PORTFOLIO • Rakibul Hasan Rakib -->
 <div align="center">
 
-<img src="./assets/ninja-hero.svg?v=4" width="100%" alt="Rakibul Hasan Rakib — Shinobi Developer" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-hero.svg" width="100%" alt="Rakibul Hasan Rakib — Shinobi Developer" />
 
 <p>
   <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -26,17 +26,17 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 
 ## ⚔️ WHAT I BUILD
 
-<img src="./assets/ninja-about-orbit.svg?v=4" width="100%" alt="What I build — development missions and rotating interest cards" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-about-orbit.svg" width="100%" alt="What I build — development missions and rotating interest cards" />
 
 ## 🌀 JUTSU ARSENAL + HOBBIES
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="./assets/ninja-tech-orbit.svg?v=4" width="100%" alt="Animated technology orbit" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-tech-orbit.svg" width="100%" alt="Animated technology orbit" />
 </td>
 <td width="50%" valign="top">
-<img src="./assets/ninja-hobbies.svg?v=1" width="100%" alt="Animated interests carousel" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-hobbies.svg" width="100%" alt="Animated interests carousel" />
 </td>
 </tr>
 </table>
@@ -47,17 +47,17 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 
 ## 🪪 SHINOBI ID + MISSION DASHBOARD
 
-<img src="./assets/ninja-id.svg?v=4" width="100%" alt="Shinobi identity card and developer dashboard" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-id.svg" width="100%" alt="Shinobi identity card and developer dashboard" />
 
 ## 📊 LIVE GITHUB DASHBOARD
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&hide_border=true&rank_icon=github&bg_color=11131c&title_color=ff914d&icon_color=ff6b35&text_color=f2e8e1" width="100%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&theme=tokyonight" width="100%" alt="GitHub statistics" />
 </td>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&hide_border=true&bg_color=11131c&title_color=ff914d&text_color=f2e8e1" width="100%" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&theme=tokyonight" width="100%" alt="Most used languages" />
 </td>
 </tr>
 </table>
@@ -86,18 +86,18 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 
 <div align="center">
   <p><em>Every commit raises another building, rebuilt automatically every day.</em></p>
-  <img src="./assets/ninja-village.svg?v=4" width="100%" alt="Decorative shinobi village skyline" />
+  <img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-village.svg" width="100%" alt="Decorative shinobi village skyline" />
   <br/><br/>
-  <img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="Automatically generated 3D GitHub contribution city" />
+  <a href="https://github.com/rakibulhasanrakibofficial"><strong>Open my live GitHub contribution graph →</strong></a>
 </div>
 
-*The 3D contribution image appears after the GitHub Actions workflow runs successfully for the first time.*
+*The 3D contribution city will be displayed here after the GitHub Actions workflow successfully generates its first image.*
 
 ## 🤝 CONNECT WITH THIS SHINOBI
 
 <div align="center">
 
-<img src="./assets/ninja-footer.svg?v=4" width="100%" alt="Shinobi closing banner" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/assets/ninja-footer.svg" width="100%" alt="Shinobi closing banner" />
 
 <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GitHub-Follow-171923?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
