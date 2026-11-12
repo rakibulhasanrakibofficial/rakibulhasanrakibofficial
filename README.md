@@ -1,44 +1,46 @@
-<!-- Rakibul Hasan Rakib | Original shinobi-inspired developer profile -->
+<!-- Rakibul Hasan Rakib | Shinobi-inspired animated developer portfolio -->
 <div align="center">
 
-<img src="./assets/ninja-hero.svg?v=2" width="100%" alt="Rakibul Hasan Rakib — Shinobi Developer" />
+<img src="./assets/ninja-hero.svg?v=3" width="100%" alt="Rakibul Hasan Rakib — original shinobi-inspired developer hero" />
 
 <p>
-  <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+  <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rakibhasan2569@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF7135?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/rakibulhasanrakibofficial?tab=repositories"><img src="https://img.shields.io/badge/Missions-All_Projects-9B2C20?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/rakibulhasanrakibofficial?tab=repositories"><img src="https://img.shields.io/badge/Missions-All_Projects-9B2C20?style=for-the-badge&logo=github&logoColor=white" alt="All projects" /></a>
 </p>
-
-<img src="./assets/ninja-way.svg?v=2" width="100%" alt="My Ninja Way — What I Build" />
 
 </div>
 
-## 🍥 Shinobi Profile
+## 🍥 SHINOBI PROFILE
 
-I'm a Computer Science and Engineering student at **International Islamic University Chittagong (IIUC)**. I enjoy building practical software, learning by shipping projects, and exploring how AI can solve real problems.
+I'm a Computer Science and Engineering student at **International Islamic University Chittagong (IIUC)**. I enjoy building practical software, learning through hands-on projects, and exploring how AI can solve real problems.
 
 - 🥷 **Role:** CSE student and developer in training
 - ⚔️ **Current focus:** Full-stack development, backend APIs, and problem-solving
-- 🔥 **Exploring:** AI/ML and software engineering
-- 🍃 **Philosophy:** Learn by building, test what you make, improve every iteration
+- 🔥 **Exploring:** AI/ML, software engineering, and creative UI
+- 🍃 **My way:** Learn by building, test what you make, improve every iteration
 - 📍 **Village:** Chattogram, Bangladesh
 
 > "A shinobi never stops learning." — My coding mindset.
 
-## 🌀 Jutsu Arsenal — Tech Stack
+## ⚔️ WHAT I BUILD + INTEREST CAROUSEL
+
+<img src="./assets/ninja-about-orbit.svg?v=3" width="100%" alt="What I build and automatically rotating interest cards" />
+
+## 🌀 JUTSU ARSENAL — TECH ORBIT
+
+<img src="./assets/ninja-tech-orbit.svg?v=3" width="100%" alt="Animated orbit of programming languages, tools and technologies around a chakra core" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,nodejs,express,mongodb,spring,git,github,vscode&perline=7&theme=dark" alt="C++, Java, JavaScript, Python, HTML, CSS, Node.js, Express, MongoDB, Spring, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,nodejs,express,mongodb,git,github,vscode,qt&perline=7&theme=dark" alt="C++, Java, JavaScript, Python, HTML, CSS, Node.js, Express, MongoDB, Git, GitHub, VS Code and Qt" />
 </div>
 
-## 🪪 Shinobi ID & Mission Dashboard
+## 🪪 SHINOBI ID + MISSION DASHBOARD
 
-<div align="center">
-  <img src="./assets/ninja-id.svg?v=2" width="100%" alt="Shinobi registration card and developer mission dashboard" />
-</div>
+<img src="./assets/ninja-id.svg?v=3" width="100%" alt="Shinobi identity card and developer mission dashboard" />
 
-## 📊 Live Mission Stats
+## 📊 LIVE MISSION STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&hide_border=true&rank_icon=github&bg_color=11131c&title_color=ff914d&icon_color=ff6b35&text_color=f2e8e1" width="100%" alt="GitHub statistics" />
@@ -46,40 +48,44 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
   <img src="https://streak-stats.demolab.com?user=rakibulhasanrakibofficial&hide_border=true&background=11131c&ring=ff7135&fire=ff914d&currStreakLabel=ffb36b&sideLabels=f2e8e1&dates=aaa09a" width="100%" alt="GitHub contribution streak" />
 </div>
 
-## 🏯 S-Rank Missions — Featured Projects
+## 🏯 S-RANK MISSIONS — FEATURED PROJECTS
 
-| Mission | Brief | Repository |
-|:--|:--|:--:|
-| **CampusSathi AI** | AI-powered assistant helping university students solve everyday campus problems | [View mission ↗](https://github.com/rakibulhasanrakibofficial/campus-sathi-ai) |
-| **Simple E-commerce Store** | Full-stack e-commerce application built as an internship task | [View mission ↗](https://github.com/rakibulhasanrakibofficial/CodeAlpha_SimpleEcommerce) |
-| **Connectly — Social Platform** | Full-stack social media platform | [View mission ↗](https://github.com/rakibulhasanrakibofficial/CodeAlpha_SocialMediaPlatform) |
-| **Blood Donor Management System** | Data Structures lab project | [View mission ↗](https://github.com/rakibulhasanrakibofficial/Blood-Donor-Management-System) |
-| **University Complaint Routing System** | C++ and Qt 6 complaint management with department routing and status tracking | [View mission ↗](https://github.com/rakibulhasanrakibofficial/University-Complaint-Routing-System) |
+| Mission | What it does | Jutsu / Stack |
+|:--|:--|:--|
+| [**CampusSathi AI**](https://github.com/rakibulhasanrakibofficial/campus-sathi-ai) | AI-powered assistant for everyday university student needs | AI / Web |
+| [**Simple E-commerce Store**](https://github.com/rakibulhasanrakibofficial/CodeAlpha_SimpleEcommerce) | Full-stack e-commerce internship project | Web development |
+| [**Connectly — Social Platform**](https://github.com/rakibulhasanrakibofficial/CodeAlpha_SocialMediaPlatform) | Full-stack social media platform | Web development |
+| [**Blood Donor Management System**](https://github.com/rakibulhasanrakibofficial/Blood-Donor-Management-System) | Data Structures lab project | C++ |
+| [**University Complaint Routing System**](https://github.com/rakibulhasanrakibofficial/University-Complaint-Routing-System) | Complaint routing, status tracking, PDF export and notices | C++ / Qt 6 |
 
 <div align="center">
 
-<a href="https://github.com/rakibulhasanrakibofficial?tab=repositories"><strong>⚡ EXPLORE ALL REPOSITORIES →</strong></a>
+[**→ Explore all repositories and missions**](https://github.com/rakibulhasanrakibofficial?tab=repositories)
 
 </div>
 
-## 🌃 The Hidden Village — Contribution City
+## 🌃 THE HIDDEN VILLAGE — 3D CONTRIBUTION CITY
 
 <div align="center">
-  <img src="./assets/ninja-village.svg?v=2" width="100%" alt="Decorative ninja village skyline" />
+  <img src="./assets/ninja-village.svg?v=3" width="100%" alt="Decorative night village skyline" />
   <br/><br/>
-  <a href="https://github.com/rakibulhasanrakibofficial?tab=overview"><strong>View my real GitHub contribution activity →</strong></a>
+  <img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="Automatically generated 3D GitHub contribution city" />
 </div>
 
-## 🎯 Next Missions
+*The contribution city is generated by GitHub Actions and refreshes daily after the workflow is enabled and completes successfully.*
+
+## 🎯 NEXT MISSIONS
 
 - Strengthen data structures, algorithms, and problem-solving fundamentals
 - Build reliable, maintainable full-stack applications
 - Explore AI/ML through practical projects
 - Learn from open source and contribute to meaningful projects
 
-## 🤝 Join the Squad
+## 🤝 CONNECT WITH THIS SHINOBI
 
 <div align="center">
+
+<img src="./assets/ninja-footer.svg?v=3" width="100%" alt="Animated shinobi-inspired closing banner" />
 
 <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GitHub-Follow-171923?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-a0b4aa435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
@@ -88,8 +94,6 @@ I'm a Computer Science and Engineering student at **International Islamic Univer
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rakibulhasanrakibofficial&color=ff7135&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
-
-<img src="./assets/ninja-footer.svg?v=2" width="100%" alt="Train your skills, build your legacy" />
 
 **Keep training. Keep coding. Keep growing.** 🍥
 
