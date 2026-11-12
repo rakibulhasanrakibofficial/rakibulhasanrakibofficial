@@ -1,5 +1,5 @@
 <!--
-  ANIMATED GITHUB PROFILE — midnight glass + aurora edition
+  ANIMATED GITHUB PROFILE — Naruto shinobi edition
   Built for Rakibul Hasan Rakib. All cards are self-contained animated SVGs
   (CSS + SMIL only — GitHub strips JavaScript from READMEs).
   If you edit an SVG and the profile looks unchanged, GitHub's image cache is
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/hero.svg?v=1" width="100%" alt="Rakibul Hasan Rakib — animated profile hero" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/hero.svg?v=2" width="100%" alt="Animated Shinobi developer banner — Rakibul Hasan Rakib" />
 
 <p>
   <a href="https://github.com/rakibulhasanrakibofficial"><img src="https://img.shields.io/badge/GitHub-Profile-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -18,42 +18,42 @@
   <a href="https://github.com/rakibulhasanrakibofficial?tab=repositories"><img src="https://img.shields.io/badge/Projects-All_Repos-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="All projects" /></a>
 </p>
 
-**Learn · Build · Improve · Repeat**
+**Learn · Build · Improve · Repeat** — *that's my nindo, my ninja way*
 
 </div>
 
 ---
 
-## 🌙 ABOUT — MY WAY & OFF DUTY
+## 🍥 ABOUT — MY NINJA WAY
 
-<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/about-life.svg?v=1" width="100%" alt="What Rakib builds, plus a carousel of his off-duty life" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/about-life.svg?v=2" width="100%" alt="My ninja way — what I build, plus a carousel of off-duty life" />
 
-## 🛰️ TECH ORBIT
+## ⚔️ JUTSU ARSENAL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/stack.svg?v=1" width="100%" alt="Tech stack orbiting an atom core, with a grouped chip grid" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/stack.svg?v=2" width="100%" alt="Tech stack orbiting an atom core, with a grouped chip grid" />
 
 <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css,nodejs,express,mongodb,supabase,git,github,vscode,qt&perline=7&theme=dark" alt="Technology stack icons" />
 
 </div>
 
-## 🪪 ID BADGE + MISSION DASHBOARD
+## 🪪 NINJA ID + MISSION DASHBOARD
 
-<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/id-dashboard.svg?v=1" width="100%" alt="Swinging holographic ID badge and live GitHub dashboard" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/id-dashboard.svg?v=2" width="100%" alt="Swinging holographic ninja ID badge and mission dashboard" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0e16&title_color=22d3ee&icon_color=a78bfa" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0e16&title_color=22d3ee" width="49%" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e0b09&title_color=ff9b55&icon_color=ff9b55" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e0b09&title_color=ff9b55" width="49%" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=rakibulhasanrakibofficial&hide_border=true&background=0d0e16&ring=22d3ee&fire=a78bfa&currStreakLabel=f472b6&sideLabels=e6edf3&dates=8b93a7" width="100%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=rakibulhasanrakibofficial&hide_border=true&background=0e0b09&ring=ff7135&fire=ff914d&currStreakLabel=ffb36b&sideLabels=f2e8e1&dates=aaa09a" width="100%" alt="GitHub contribution streak" />
 
 </div>
 
-## 🚀 FEATURED PROJECTS
+## 🏆 S-RANK MISSIONS — FEATURED PROJECTS
 
-| Project | What it does | Repository |
+| Mission | What it does | Repository |
 |:--|:--|:--:|
 | **PayGuard** | AI-powered invoice management & payment scam-risk protection for freelancers | [Explore ↗](https://github.com/rakibulhasanrakibofficial/PayGuard) |
 | **Shonket AI** | Bangladesh-focused AI scam intelligence & digital safety platform | [Explore ↗](https://github.com/rakibulhasanrakibofficial/shonket-ai) |
@@ -84,7 +84,7 @@
 
 ## 🤝 CONNECT
 
-<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/connect.svg?v=1" width="100%" alt="Connect with Rakib — GitHub, email, LinkedIn and projects" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/connect.svg?v=2" width="100%" alt="Connect with Rakib — GitHub, email, LinkedIn and projects" />
 
 <div align="center">
 
@@ -94,8 +94,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rakibulhasanrakibofficial&color=22d3ee&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=rakibulhasanrakibofficial&color=ff7135&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
 
-**Build your legacy, one commit at a time.** 🌙
+**Train your skills. Build your legacy.** 🍥
 
 </div>
