@@ -1,36 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
-<title id="t">Rakibul Hasan Rakib — Shinobi Developer</title><desc id="d">Original anime ninja-inspired developer banner with orange and black armor, glowing chakra rings and a coding terminal.</desc>
+<title id="t">Rakibul Hasan Rakib — Shinobi Developer</title><desc id="d">A cinematic anime-inspired shinobi developer banner with an original orange-clad ninja character, laptop, glowing village lights and developer profile details.</desc>
 <defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090b12"/><stop offset=".55" stop-color="#19121a"/><stop offset="1" stop-color="#30120e"/></linearGradient>
- <linearGradient id="orange"><stop stop-color="#ffb347"/><stop offset=".5" stop-color="#ff6b1a"/><stop offset="1" stop-color="#d93616"/></linearGradient>
- <linearGradient id="red"><stop stop-color="#ff3d35"/><stop offset="1" stop-color="#8e101c"/></linearGradient>
- <radialGradient id="chakra"><stop stop-color="#ffb347" stop-opacity=".45"/><stop offset="1" stop-color="#ff4b1f" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ff8a35" stroke-opacity=".10"/></pattern>
- <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080b14"/><stop offset=".52" stop-color="#171522"/><stop offset="1" stop-color="#32140f"/></linearGradient>
+ <linearGradient id="orange" x2="1" y2="1"><stop stop-color="#ffd17c"/><stop offset=".45" stop-color="#ff7a24"/><stop offset="1" stop-color="#c72d1e"/></linearGradient>
+ <linearGradient id="hair" x2=".8" y2="1"><stop stop-color="#252d40"/><stop offset=".45" stop-color="#0b101b"/><stop offset="1" stop-color="#05070d"/></linearGradient>
+ <linearGradient id="skin" x2="0" y2="1"><stop stop-color="#ffe0c9"/><stop offset="1" stop-color="#d99578"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#ff762a" stop-opacity=".42"/><stop offset="1" stop-color="#ff762a" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ff8a35" stroke-opacity=".1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="430" rx="24" fill="url(#bg)"/><rect width="1200" height="430" rx="24" fill="url(#grid)"/>
-<circle cx="960" cy="208" r="245" fill="url(#chakra)"/>
-<g fill="none" stroke="#ff6b35" filter="url(#glow)" opacity=".8"><circle cx="970" cy="205" r="155" stroke-width="2" stroke-dasharray="12 12"><animateTransform attributeName="transform" type="rotate" from="0 970 205" to="360 970 205" dur="34s" repeatCount="indefinite"/></circle><circle cx="970" cy="205" r="125" stroke-width="1.5" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="360 970 205" to="0 970 205" dur="26s" repeatCount="indefinite"/></circle></g>
-<g transform="translate(820 50)">
- <path d="M105 48 Q164 3 226 56 L214 94 Q169 76 121 98Z" fill="#151923" stroke="#ff8b3d" stroke-width="3"/>
- <path d="M112 67 Q164 42 217 68 L211 95 Q166 82 120 103Z" fill="#aeb6c4"/>
- <path d="M146 75 l17 2 -8 10Z" fill="#343b49"/><circle cx="174" cy="80" r="3" fill="#252a33"/>
- <path d="M125 96 Q167 79 212 98 L233 170 Q169 212 105 169Z" fill="#202633" stroke="#ff7a2f" stroke-width="3"/>
- <path d="M119 108 Q166 90 216 108 L204 132 Q166 120 130 135Z" fill="#0a0d14"/>
- <path d="M129 138 Q165 126 204 139 L222 244 L101 244Z" fill="url(#orange)" stroke="#ffb347" stroke-width="2"/>
- <path d="M112 156 L77 203 L98 225 L137 184 M210 157 L250 198 L230 222 L193 184" fill="none" stroke="#202633" stroke-width="25" stroke-linecap="round"/>
- <path d="M111 240 L91 300 L132 300 L155 250 M205 240 L225 300 L184 300 L163 250" fill="#171c27" stroke="#ff7a2f" stroke-width="3"/>
- <path d="M75 205 l-20 18 27 8 18 -17 M249 198 l22 19 -25 12 -18 -17" fill="#c9d1dc" stroke="#ff7a2f" stroke-width="2"/>
- <path d="M128 139 Q166 149 204 139" fill="none" stroke="#ffe0b4" stroke-opacity=".7" stroke-width="3"/>
- <path d="M150 176 l16 12 16 -12" fill="none" stroke="#fff1dc" stroke-width="3" opacity=".8"/>
-</g>
+<rect width="1200" height="430" rx="22" fill="url(#bg)"/><rect width="1200" height="430" rx="22" fill="url(#grid)"/>
+<circle cx="930" cy="210" r="250" fill="url(#aura)"/><circle cx="930" cy="210" r="175" fill="none" stroke="#ff7838" stroke-opacity=".5" stroke-dasharray="5 12"/><circle cx="930" cy="210" r="145" fill="none" stroke="#ffb36b" stroke-opacity=".25"/>
+<g fill="#ff9b55"><circle cx="790" cy="62" r="3"/><circle cx="1085" cy="72" r="2"/><circle cx="1140" cy="295" r="3"/><circle cx="730" cy="340" r="2"/><circle cx="1010" cy="34" r="2"/></g>
 <g font-family="Segoe UI,Arial,sans-serif">
- <text x="64" y="76" fill="#ffad63" font-size="16" font-weight="700" letter-spacing="5">THE SHINOBI DEVELOPER FILE</text>
- <text x="60" y="158" fill="#fff4e8" font-size="54" font-weight="900" letter-spacing="-1">RAKIBUL HASAN RAKIB</text>
- <text x="64" y="202" fill="#ff8a3d" font-size="23" font-weight="800">CSE STUDENT  •  FULL-STACK BUILDER  •  AI/ML EXPLORER</text>
- <text x="64" y="248" fill="#d8d5d2" font-size="18">Turning ideas into useful software, one mission at a time.</text>
- <g transform="translate(64 290)"><rect width="410" height="58" rx="12" fill="#10141d" stroke="#ff7135" stroke-opacity=".8"/><circle cx="25" cy="29" r="6" fill="#ff6b35"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle><text x="45" y="24" fill="#ffb36d" font-size="12" font-weight="700" letter-spacing="2">CURRENT MISSION</text><text x="45" y="43" fill="#f7e9dc" font-size="15">Learn • Build • Improve • Repeat</text></g>
- <text x="64" y="392" fill="#9c8d84" font-size="13" letter-spacing="2">IIUC • CHATTOGRAM, BANGLADESH</text>
+ <text x="58" y="58" fill="#ffb36b" font-size="14" font-weight="800" letter-spacing="4">THE SHINOBI DEVELOPER FILE</text>
+ <text x="58" y="132" fill="#fff2e9" font-size="48" font-weight="900">RAKIBUL HASAN RAKIB</text>
+ <text x="60" y="171" fill="#ff9550" font-size="19" font-weight="800">CSE STUDENT • FULL-STACK BUILDER • AI/ML EXPLORER</text>
+ <text x="60" y="207" fill="#d8c9c0" font-size="16">Turning ideas into useful software, one mission at a time.</text>
+ <rect x="58" y="248" width="440" height="72" rx="13" fill="#111824" stroke="#ff8542" stroke-opacity=".75"/>
+ <circle cx="82" cy="273" r="5" fill="#ff8a3c"/><text x="100" y="278" fill="#ffb36b" font-size="13" font-weight="800" letter-spacing="1.5">CURRENT MISSION</text>
+ <text x="82" y="302" fill="#f2e5dc" font-size="15">Learn • Build • Improve • Repeat</text>
+ <text x="60" y="368" fill="#998d8a" font-size="12" letter-spacing="2">IIUC • CHATTOGRAM, BANGLADESH</text>
+ <text x="60" y="393" fill="#ff9b55" font-size="11" letter-spacing="2">忍道 — THE WAY OF THE SHINOBI</text>
 </g>
-<g fill="#ff9b4a"><circle cx="760" cy="70" r="3"><animate attributeName="cy" values="70;52;70" dur="4s" repeatCount="indefinite"/></circle><circle cx="1110" cy="320" r="4"><animate attributeName="cy" values="320;294;320" dur="5s" repeatCount="indefinite"/></circle><circle cx="740" cy="360" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle></g>
+<!-- original anime shinobi character -->
+<g transform="translate(805 22)">
+ <path d="M105 126 Q25 100 52 42 Q88 -8 166 22 Q237 45 220 134 L251 247 197 229 183 172 80 190 38 251 21 229Z" fill="url(#hair)" stroke="#4a5365" stroke-width="3"/>
+ <path d="M80 95 Q82 51 136 48 Q190 48 194 105 L183 172 Q158 205 112 180 Q83 157 80 95Z" fill="url(#skin)" stroke="#b87563" stroke-width="2"/>
+ <path d="M72 88 Q83 28 151 31 Q203 35 211 93 Q179 68 154 72 Q116 77 83 111Z" fill="url(#hair)"/>
+ <path d="M80 83 Q49 111 54 190 L22 238 56 243 95 178Z" fill="url(#hair)"/><path d="M187 82 Q226 115 215 190 L250 239 218 248 176 179Z" fill="url(#hair)"/>
+ <path d="M80 99 Q104 86 125 100" fill="none" stroke="#25212a" stroke-width="6" stroke-linecap="round"/><path d="M147 100 Q170 86 190 99" fill="none" stroke="#25212a" stroke-width="6" stroke-linecap="round"/>
+ <ellipse cx="108" cy="111" rx="12" ry="8" fill="#fff"/><ellipse cx="165" cy="111" rx="12" ry="8" fill="#fff"/><ellipse cx="110" cy="112" rx="5" ry="7" fill="#5b7c83"/><ellipse cx="164" cy="112" rx="5" ry="7" fill="#5b7c83"/><circle cx="111" cy="112" r="2.5" fill="#111"/><circle cx="165" cy="112" r="2.5" fill="#111"/>
+ <path d="M137 117 L131 140 141 143" fill="none" stroke="#b87563" stroke-width="2" stroke-linecap="round"/><path d="M120 157 Q139 168 157 155" fill="none" stroke="#8d4b4a" stroke-width="3" stroke-linecap="round"/>
+ <path d="M66 71 Q137 49 207 72 L202 96 Q135 77 70 99Z" fill="#202b3c" stroke="#9ba5b5" stroke-width="3"/><path d="M118 71 l24 -2 9 13 -14 12 -17 -10Z" fill="#aeb8c5"/><path d="M131 76 l9 3 -7 7 -6 -6Z" fill="#35445b"/>
+ <path d="M88 184 Q138 162 190 187 L222 296 53 296Z" fill="#1a2433" stroke="#3b4558" stroke-width="3"/>
+ <path d="M87 187 Q136 171 190 190 L205 286 67 286Z" fill="url(#orange)" stroke="#ffb15e" stroke-width="3"/>
+ <path d="M106 192 L137 228 170 192 183 285 91 285Z" fill="#202a3a"/><path d="M137 227 L137 285" stroke="#ffb15e" stroke-width="3"/>
+ <path d="M77 205 L37 270 60 290 102 233" fill="url(#orange)" stroke="#ffb15e" stroke-width="3"/><path d="M196 206 L234 265 214 288 177 235" fill="url(#orange)" stroke="#ffb15e" stroke-width="3"/>
+ <path d="M62 292 L206 292 228 325 44 325Z" fill="#101722" stroke="#687184" stroke-width="2"/>
+ <path d="M83 305 L189 305" stroke="#ff8a3a" stroke-width="4"/><circle cx="137" cy="307" r="5" fill="#ffb36b"/>
+ <path d="M45 326 L231 326 252 366 18 366Z" fill="#101722" stroke="#ff8a3a" stroke-width="2"/>
+ <path d="M65 340 H210 M65 350 H185" stroke="#4b5b6c" stroke-width="3"/>
+ <path d="M245 46 Q270 18 285 42" fill="none" stroke="#ff9b55" stroke-width="3" filter="url(#glow)"/>
+</g>
+<path d="M0 420 Q300 392 600 420 T1200 410" fill="none" stroke="#ff7838" stroke-opacity=".6" stroke-width="2"/>
 </svg>
