@@ -20,6 +20,10 @@
 
 **Learn · Build · Improve · Repeat** — *that's my nindo, my ninja way*
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/team7-dance.gif" width="450" alt="Team 7 chibi dance" />
+
 </div>
 
 ---
@@ -70,6 +74,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/rasengan-run.gif" width="260" alt="Naruto running with a Rasengan" />
+
+</div>
+
 ## 🌃 MY CONTRIBUTION VILLAGE
 
 <div align="center">
@@ -95,6 +105,12 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rakibulhasanrakibofficial&color=ff7135&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/chibi-walk.gif" width="160" alt="Chibi Naruto walking" />
+
+<br/>
 
 **Train your skills. Build your legacy.** 🍥
 
