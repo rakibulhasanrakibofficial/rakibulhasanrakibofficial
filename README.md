@@ -48,8 +48,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanrakibofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e0b09&title_color=ff9b55&icon_color=ff9b55" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhasanrakibofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e0b09&title_color=ff9b55" width="49%" alt="Most used languages" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/profile/stats.svg" width="49%" alt="GitHub statistics" />
+<img src="https://raw.githubusercontent.com/rakibulhasanrakibofficial/rakibulhasanrakibofficial/main/profile/top-langs.svg" width="49%" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=rakibulhasanrakibofficial&hide_border=true&background=0e0b09&ring=ff7135&fire=ff914d&currStreakLabel=ffb36b&sideLabels=f2e8e1&dates=aaa09a" width="100%" alt="GitHub contribution streak" />
 
